@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently working on stats (ENV710) and environmental data exploration (ENV872).\
+I am currently working on stats (ENV 710) and environmental data exploration (ENV 872).\
 My Github home page is: https://github.com/sarah-sussman \
 My LinkedIn is: https://www.linkedin.com/in/sarah-j-sussman/ 
 
