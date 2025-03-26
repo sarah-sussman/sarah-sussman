@@ -1,5 +1,12 @@
 ## Hi there 👋
+I am currently working on stats (ENV710) and environmental data exploration (ENV872).\
+My Github home page is: https://github.com/sarah-sussman \
+My LinkedIn is: https://www.linkedin.com/in/sarah-j-sussman/ 
 
+One of my favorite wildflowers is the spring ephermeral Dutchman's Breeches (_Dicentra cucullaria_)
+
+![image](https://github.com/user-attachments/assets/213198fd-b620-4aeb-801b-f7997f630d10)
+_Photo by: Sarah Sussman | March 27th 2022 | Polk County, NC._
 <!--
 **sarah-sussman/sarah-sussman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
